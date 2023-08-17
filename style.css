@@ -1,0 +1,16 @@
+:root{
+    --cor-de-fundo:   #5e5b5b;
+    --cor-cabecalho:  #200609;
+}
+body{
+    background-color: var(--cor-de-fundo);
+    margin: 0;
+}
+.Burguer{
+    padding-left: 5em;
+    font-size: 20px;
+    font-weight: 400;
+    margin: 0;
+    display: block;
+}
+
